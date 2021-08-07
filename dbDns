@@ -1,0 +1,9 @@
+dnsbl="bl.0spam.org"
+description="0spam Spam Trap Primary Database"
+mirror="0spam.fusionzero.com"
+
+nbl.0spam.org Network Black List | Spam Source Networks, high volume of spam trap hits in a Class C block will result in network listings in this DNSBL.
+0spam-n.fusionzero.com Network DNSBL Mirror
+
+url.0spam.org URL Black List | This list contains the IP address of domains found to be in the source of spam emails found in our traps.
+0spamurl.fusionzero.com URL Black List Mirror
